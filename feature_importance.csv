@@ -1,0 +1,7 @@
+feature,importance
+known_device,0.2588073159947046
+frequency_anomaly,0.217321411523071
+location_anomaly,0.18132986217024025
+compromise_indicator,0.15074620529077729
+network_risk,0.1414598091170652
+time_anomaly,0.05033539590414165
